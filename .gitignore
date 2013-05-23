@@ -1,2 +1,4 @@
 ext
 .c9revisions
+composer.lock
+vendor
